@@ -2,12 +2,13 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Aaron N. Best, PhD
+Postdoctoral Fellow, Biomechanist, Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="anbest.37.7@gmail.com">Email</a>
+| <a href="https://scholar.google.ca/citations?user=MsAESQUAAAAJ&hl=en">Google Scholar</a>
+| <a href="https://github.com/AN-Best">Github</a>
 </div>
 
 
