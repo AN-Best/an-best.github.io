@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Aaron N. Best, PhD
 ---
 # Aaron N. Best, PhD
 Postdoctoral Fellow, Biomechanist, Engineer
