@@ -42,8 +42,11 @@ __Bachelors of Applied Science in Mechanical Engineering__
 
 ### Journals
 
+`2025`
+Timothy K. Byles-Ho, Aaron N. Best, Amy R. Wu; Reduction of pendular energy exchange at very slow human walking speeds reveals deviations from simple walking models. J Exp Biol 2025; jeb.250042. doi: https://doi.org/10.1242/jeb.250042
+
 `2023`
- Best, A.N., Wu, A.R. Modified stepping behaviour during outdoor winter walking increases resistance to forward losses of stability. Sci Rep 13, 8432 (2023). https://doi.org/10.1038/s41598-023-34831-3
+Best, A.N., Wu, A.R. Modified stepping behaviour during outdoor winter walking increases resistance to forward losses of stability. Sci Rep 13, 8432 (2023). https://doi.org/10.1038/s41598-023-34831-3
 
 Changes in Seasonal Footwear Elicited Alterations in Gait Kinematics but Not Stability
 Sydney N. Garrah, Aaron N. Best, Amy R. Wu
